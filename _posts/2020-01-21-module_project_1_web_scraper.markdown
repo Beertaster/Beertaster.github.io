@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Module Project 1: Web Scraper"
-date:       2020-01-21 05:16:36 +0000
+date:       2020-01-21 00:16:37 -0500
 permalink:  module_project_1_web_scraper
 ---
 
