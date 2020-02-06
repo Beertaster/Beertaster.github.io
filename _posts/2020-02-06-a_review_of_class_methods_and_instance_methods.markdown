@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A review of Class methods and Instance Methods."
-date:       2020-02-06 08:14:25 +0000
+date:       2020-02-06 03:14:27 -0500
 permalink:  a_review_of_class_methods_and_instance_methods
 ---
 
